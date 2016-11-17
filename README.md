@@ -156,4 +156,4 @@ module.exports = function(grunt) {
     //注册任务
     grunt.registerTask("default", ['jade', 'less', 'cssmin', 'coffee', 'jshint', 'uglify', 'watch']);
 };
-    ```
+```
